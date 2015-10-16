@@ -84,4 +84,5 @@ Hash = {
     }
 };
 
+
 module.exports = Hash;
